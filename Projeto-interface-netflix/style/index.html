@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Netflix</title>
+    <!-- responsividade -->
+    <link rel="stylesheet" href="responsive/responsive.css">
+    <!-- owl css-->
+    <link rel="stylesheet" href="owl/owl.theme.default.min.css">
+    <link rel="stylesheet" href="owl/owl.carousel.min.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h2>NETFLIX</h2>
+            <nav>
+                <a href="https://www.primevideo.com/ref=av_auth_return_redir?_encoding=UTF8&ie=UTF8&ref=dvm_crs_prm_br_ra_s_dash_evrgrn">Inicio</a>
+                <a href="https://www.primevideo.com/storefront/tv/ref=atv_nb_sf_tv">Séries</a>
+                <a href="https://www.primevideo.com/storefront/movie/ref=atv_nb_sf_mv">Filmes</a>
+                <a href="https://www.primevideo.com/storefront/kids/ref=atv_nb_sf_kids">Infantil</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <div class="filme-principal">
+            <div class="container">
+                <h3 class="titulo">The Mandalorian </h3>
+                <p class="descricao">A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</p>
+            <div class="botoes">
+                
+                <button type="button" role="button" class="botao" onclick="newpage()">
+                    <i class="fas fa-play"></i>
+                    ASSISTIR AGORA
+                </button>
+                <button type="button" role="button" class="botao" onclick="infopage()">
+                    <i class="fas fa-info-circle"></i>
+                    MAIS INFORMAÇÕES
+                </button>
+            </div>
+            </div>
+        </div>
+    </main>
+    <div class="carrosel-filmes">
+        <div class="owl-carousel owl-theme">
+            <div class="box-filme"><a href="https://filmplay.biz/series/the-umbrella-academy/"><img src="../img/mini1.jpg" alt="elem_netflix" ></a></div>
+            <div class="box-filme"><a href="https://filmplay.biz/filmes/star-wars-a-ascensao-skywalker/"><img src="../img/mini2.jpg" alt="elem_netflix" ></a></div>
+            <div class="box-filme"><a href="https://filmplay.biz/?s=pokemon"><img src="../img/mini3.jpg" alt="elem_netflix" ></a></div>
+            <div class="box-filme"><a href="https://filmplay.biz/filmes/capitao-america-guerra-civil/"><img src="../img/mini4.jpg" alt="elem_netflix" ></a></div>
+            <div class="box-filme"><a href="https://filmplay.biz/filmes/o-hobbit-a-batalha-dos-cinco-exercitos/"><img src="../img/mini5.jpg" alt="elem_netflix" ></a></div>
+            <div class="box-filme"><a href="https://filmplay.biz/series/breaking-bad/"><img src="../img/mini6.jpg" alt="elem_netflix" ></a></div>
+            <div class="box-filme"><a href="https://filmplay.biz/series/dr-house/"><img src="../img/mini7.jpg" alt="elem_netflix" ></a></div>
+            <div class="box-filme"><a href="https://filmplay.biz/series/supernatural/"><img src="../img/mini8.jpg" alt="elem_netflix" ></a></div>
+            <div class="box-filme"><a href="https://filmplay.biz/series/smallville-as-aventuras-do-superboy/"><img src="../img/mini9.jpg" alt="elem_netflix" ></a></div>
+            <div class="box-filme"><a href="https://filmplay.biz/filmes/vingadores-guerra-infinita/"><img src="../img/mini10.jpg" alt="elem_netflix" ></a></div>
+
+        </div>
+    </div>
+    <script src="https://kit.fontawesome.com/109592d568.js" crossorigin="anonymous"></script>
+    <script src="../js/owl/jquery.min.js"></script>
+    <script src="../js/owl/owl.carousel.min.js"></script>
+    <script src="../js/main.js"></script>
+</body>
+</html>
