@@ -1,0 +1,14 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #60E98B;
+    
+}
+#mensagem{
+    align-items:center;
+    color: black;
+}
