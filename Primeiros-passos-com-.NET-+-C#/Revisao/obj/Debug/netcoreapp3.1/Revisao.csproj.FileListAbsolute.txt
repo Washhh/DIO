@@ -1,0 +1,13 @@
+C:\Users\Washington\Documents\web-DIO\DIO\Primeiros-passos-com-.NET-+-C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+C:\Users\Washington\Documents\web-DIO\DIO\Primeiros-passos-com-.NET-+-C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Users\Washington\Documents\web-DIO\DIO\Primeiros-passos-com-.NET-+-C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Users\Washington\Documents\web-DIO\DIO\Primeiros-passos-com-.NET-+-C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\Washington\Documents\web-DIO\DIO\Primeiros-passos-com-.NET-+-C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Users\Washington\Documents\web-DIO\DIO\Primeiros-passos-com-.NET-+-C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Users\Washington\Documents\web-DIO\DIO\Primeiros-passos-com-.NET-+-C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Users\Washington\Documents\web-DIO\DIO\Primeiros-passos-com-.NET-+-C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Users\Washington\Documents\web-DIO\DIO\Primeiros-passos-com-.NET-+-C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\Washington\Documents\web-DIO\DIO\Primeiros-passos-com-.NET-+-C#\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\Washington\Documents\web-DIO\DIO\Primeiros-passos-com-.NET-+-C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\Washington\Documents\web-DIO\DIO\Primeiros-passos-com-.NET-+-C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\Washington\Documents\web-DIO\DIO\Primeiros-passos-com-.NET-+-C#\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache

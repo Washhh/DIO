@@ -1,0 +1,13 @@
+C:\Users\Washington\Documents\web-DIO\DIO\Primeiros-passos-com-.NET-+-C#\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.exe
+C:\Users\Washington\Documents\web-DIO\DIO\Primeiros-passos-com-.NET-+-C#\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.deps.json
+C:\Users\Washington\Documents\web-DIO\DIO\Primeiros-passos-com-.NET-+-C#\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.runtimeconfig.json
+C:\Users\Washington\Documents\web-DIO\DIO\Primeiros-passos-com-.NET-+-C#\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.runtimeconfig.dev.json
+C:\Users\Washington\Documents\web-DIO\DIO\Primeiros-passos-com-.NET-+-C#\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.dll
+C:\Users\Washington\Documents\web-DIO\DIO\Primeiros-passos-com-.NET-+-C#\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.pdb
+C:\Users\Washington\Documents\web-DIO\DIO\Primeiros-passos-com-.NET-+-C#\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.csprojAssemblyReference.cache
+C:\Users\Washington\Documents\web-DIO\DIO\Primeiros-passos-com-.NET-+-C#\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\Users\Washington\Documents\web-DIO\DIO\Primeiros-passos-com-.NET-+-C#\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.AssemblyInfo.cs
+C:\Users\Washington\Documents\web-DIO\DIO\Primeiros-passos-com-.NET-+-C#\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Washington\Documents\web-DIO\DIO\Primeiros-passos-com-.NET-+-C#\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.dll
+C:\Users\Washington\Documents\web-DIO\DIO\Primeiros-passos-com-.NET-+-C#\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.pdb
+C:\Users\Washington\Documents\web-DIO\DIO\Primeiros-passos-com-.NET-+-C#\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.genruntimeconfig.cache

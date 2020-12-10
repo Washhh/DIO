@@ -28,8 +28,8 @@ function component(width, height, color, x, y, type) {
 }
 
 cobra[0] = {
-    x:8*box,
-    y:8*box
+    x:16*box,
+    y:16*box
 }
 let direcao = "right";
 let comida = {
