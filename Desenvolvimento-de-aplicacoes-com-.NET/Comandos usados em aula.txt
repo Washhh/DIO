@@ -1,0 +1,8 @@
+Install-Package Microsoft.EntifyFrameworkCore.SqlServer
+Install-Package Microsoft.EntifyFrameworkCore.SqlServer
+
+connectionString: @"Server=(localdb)\mssqllocaldb;Database=Cursomvc;Integrated Security=True"
+
+Add-Migration InitialCreate
+Update-Database
+
