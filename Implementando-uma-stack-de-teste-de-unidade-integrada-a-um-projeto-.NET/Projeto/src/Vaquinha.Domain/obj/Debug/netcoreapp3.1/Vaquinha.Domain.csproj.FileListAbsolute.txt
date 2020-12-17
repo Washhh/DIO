@@ -1,0 +1,9 @@
+c:\Users\Washington\Documents\web-DIO\DIO\Implementando-uma-stack-de-teste-de-unidade-integrada-a-um-projeto-.NET\Projeto\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.deps.json
+c:\Users\Washington\Documents\web-DIO\DIO\Implementando-uma-stack-de-teste-de-unidade-integrada-a-um-projeto-.NET\Projeto\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+c:\Users\Washington\Documents\web-DIO\DIO\Implementando-uma-stack-de-teste-de-unidade-integrada-a-um-projeto-.NET\Projeto\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
+c:\Users\Washington\Documents\web-DIO\DIO\Implementando-uma-stack-de-teste-de-unidade-integrada-a-um-projeto-.NET\Projeto\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.csprojAssemblyReference.cache
+c:\Users\Washington\Documents\web-DIO\DIO\Implementando-uma-stack-de-teste-de-unidade-integrada-a-um-projeto-.NET\Projeto\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.AssemblyInfoInputs.cache
+c:\Users\Washington\Documents\web-DIO\DIO\Implementando-uma-stack-de-teste-de-unidade-integrada-a-um-projeto-.NET\Projeto\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.AssemblyInfo.cs
+c:\Users\Washington\Documents\web-DIO\DIO\Implementando-uma-stack-de-teste-de-unidade-integrada-a-um-projeto-.NET\Projeto\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.csproj.CoreCompileInputs.cache
+c:\Users\Washington\Documents\web-DIO\DIO\Implementando-uma-stack-de-teste-de-unidade-integrada-a-um-projeto-.NET\Projeto\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+c:\Users\Washington\Documents\web-DIO\DIO\Implementando-uma-stack-de-teste-de-unidade-integrada-a-um-projeto-.NET\Projeto\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
